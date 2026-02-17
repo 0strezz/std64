@@ -1,0 +1,21 @@
+
+	     _     _ ___ ___ 
+	 ___| |_ _| |  _| | |
+	|_ -|  _| . | . |_  |
+	|___|_| |___|___| |_|
+
+	std64 is a small set of functions for x86_64 programming language in order
+	to make it easier to used, these functions have been used in most of my
+	x86_64 projects.
+
+	note: programmed for x86_64, Linux, System V AMD64 ABI
+
+	projects where they've been used:
+	1. cmds64 (github.com/0strezz/cmds64)
+
+	To Do
+	[ ] ctype like functions
+	[ ] fprintf function
+	[ ] memory functions
+	[ ] string functions
+
